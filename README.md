@@ -1,2 +1,2 @@
 # myMLTries
-My tries on ML
+My ML project repo
